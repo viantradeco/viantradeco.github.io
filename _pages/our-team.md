@@ -9,6 +9,11 @@ redirect_from:
 
 We are two brothers from [Kurdistan, Iran](https://goo.gl/maps/ok2SrvTsd7zvehF19), highly passionate about introducing the top-quality fruit and vegetables grown locally and organically in our country to the world. All of our products are organic, ethically sourced, and grown locally by family farmers. We provide the highest-quality seeds to our farmers and they put their heart and souls into the art of growing fruit and vegetables. We harness the power of Machine Learning pipelines and our databases to find the farms with the highest quality products at any given time in the year. 
 
+[](/images/mohammad.jpg) | [](/images/mohammad.jpg)
+:----------------|--------------:
+Mohammad Z.      | Ahmad Z.
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
